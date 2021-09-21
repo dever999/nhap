@@ -1,0 +1,44 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "font-end-pro",
+      "name": "Codev TA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88624053?v=4",
+      "profile": "https://github.com/font-end-pro",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "thuongtruong1009",
+      "name": "Tran Nguyen Thuong Truong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71834167?v=4",
+      "profile": "https://thuongtruonginc.wixsite.com/portfolio",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "ImgBotApp",
+      "name": "Imgbot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31427850?v=4",
+      "profile": "https://imgbot.net",
+      "contributions": [
+        "data",
+        "tool"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Snake-Game-OOP",
+  "projectOwner": "thuongtruong1009",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
