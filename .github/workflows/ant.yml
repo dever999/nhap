@@ -22,4 +22,4 @@ jobs:
         java-version: '16'
         distribution: 'adopt'
         check-latest: true
-    - run: java -cp java HelloWorldApp
+    - run: java -cp java LoginPage
