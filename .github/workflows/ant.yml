@@ -26,5 +26,5 @@ jobs:
         java-package: jdk
         server-id: github
         server-username: $GITHUB_ACTOR
-    - run: java -cp java HelloWorldApp
         server-password: $GITHUB_TOKEN
+    - run: java -cp java HelloWorldApp
