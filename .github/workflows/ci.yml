@@ -1,5 +1,4 @@
 # This is a basic workflow to help you get started with Actions
-
 name: CI
 
 # Controls when the workflow will run
@@ -8,11 +7,9 @@ on:
   push:
     branches:
       - main
-      - build-pipeline
   pull_request:
     branches:
       - main
-      - build-pipeline
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
